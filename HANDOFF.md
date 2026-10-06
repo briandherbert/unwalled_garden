@@ -1,12 +1,14 @@
 # Current work
 
-Updated: 2026-10-06, America/Chicago. Initial publication package.
+Updated: 2026-10-06, America/Chicago. Initial publication verified.
 
 ## State
 
-The 0.1.0 procedure, optional skill, templates, integration notes, contribution guidance, and synthetic examples are implemented. The public distribution target is `briandherbert/unwalled_garden`; the repository is public and the initial publication package is ready. No release tag or independent cross-agent trial is claimed.
+The 0.1.0 procedure, optional skill, templates, integration notes, contribution guidance, and synthetic examples are implemented. The public distribution target is `briandherbert/unwalled_garden`; the toolkit is published on the public main branch. No release tag or independent cross-agent trial is claimed.
 
 ## Verification
+
+Initial toolkit commit: `e1749e29a3f5278e00c40c6404f823f37f3fcc2a`. All 22 tracked files matched the prepared source in a fresh public clone. The raw UNWALL.md URL returned the expected contents without authentication. Repository checks and all six checker tests passed from that clone.
 
 Run `python3 scripts/check.py` from the repository root. See [validation evidence](docs/validation.md) for the recorded results and limits. Examples are illustrations, not completed cross-agent trials.
 
